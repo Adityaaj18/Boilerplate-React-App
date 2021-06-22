@@ -3,9 +3,9 @@ import '@firebase/database';
 import '@firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyCgqJ32reST0kgVTTfIpCMmm0u8SzuJXew",
-  authDomain: "expensify-944cc.firebaseapp.com",
-  databaseURL: "https://expensify-944cc-default-rtdb.firebaseio.com",
+  apiKey: "AIzaSyDugl7omSxLoS59e6pfpX-vBp3KE5tn57k",
+  authDomain: "recipe-app-698ef.firebaseapp.com",
+  databaseURL: "https://recipe-app-698ef-default-rtdb.firebaseio.com",
   projectId: process.env.FIREBASE_PROJECT_ID,
   storageBucket: process.env.FIREBASE_STORAGE_BUCKET,
   messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID
